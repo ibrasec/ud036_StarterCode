@@ -1,5 +1,5 @@
 # ud036_StarterCode
-This is a Source code for a Movie Trailer website.
+This is a Source code to create a Movie Trailer website.
 you could use this code to show your favorite movies as if they are being 
 hosted in a web server.
 
@@ -19,7 +19,7 @@ clone the github repository and use python to run the code
 
 If you clone or download this repository you should have 3 python files:
 
- 1- **fresh_tomatoes.py**: Creates the Movies Trailer Website.
+ 1- **fresh_tomatoes.py**: Creates the Movies Trailer Website. This module has been forked from udacity github account ( https://github.com/udacity/ud036_StarterCode )
 
  2- **media.py**: Stores the Movie class
 
@@ -64,3 +64,10 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with ud036_StarterCode.  If not, see <http://www.gnu.org/licenses/>.
+
+
+## Thanks to
+
+Udacity and Udacity instructor ( Kunal Chawla ) for helping me building this code.
+
+
